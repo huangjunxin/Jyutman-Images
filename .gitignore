@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# 本仓只放 manifest，不入库影像本体
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.webp
+*.pdf

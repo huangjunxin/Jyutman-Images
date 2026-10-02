@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "_note": "示例文件：字段形状供同步脚本与站点对齐；真实 manifest 由脚本生成，此处均为占位值。",
+  "items": [
+    {
+      "object_key": "gdvp/01/009.jpg",
+      "corpus": "gd-vernacular-paper",
+      "issue": "01",
+      "page": 9,
+      "original_filename": "廣東白話報_第一冊_009.jpg",
+      "source": {
+        "institution": "<扫描来源机构>",
+        "internet_archive_id": "<internet-archive-id>",
+        "item_url": "https://archive.org/details/<internet-archive-id>"
+      },
+      "width": 968,
+      "height": 1452,
+      "checksum_sha256": "<sha256-hex>",
+      "license": "CC BY-SA 4.0",
+      "rights_status": "pending_review",
+      "page_mapping": {
+        "scan_index": 9,
+        "printed_page": null
+      }
+    }
+  ]
+}
