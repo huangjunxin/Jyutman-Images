@@ -1,4 +1,4 @@
-# Jyutman-images
+# Jyutman-Images
 
 粤语文丛（Jyutman）的影像 manifest 仓。
 
